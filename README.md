@@ -1,1 +1,2 @@
-# Tecnolog-a-en-movimiento-sostenible
+# Tecnología-en-movimiento-sostenible
+El tren combina tradición y modernidad. La digitalización y automatización lo han transformado en un sistema eficiente y sostenible, ideal para la logística global. Este transporte consume menos energía, emite menos gases y es confiable incluso en tiempos de crisis. Integrar trenes con centros logísticos y otras rutas es clave para reducir la dependencia de combustibles fósiles y diversificar cadenas de suministro.
